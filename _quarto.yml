@@ -1,0 +1,21 @@
+project:
+  type: website
+  pre-render:
+    - delete_index.R
+  post-render:
+    - create_redirect.R
+
+website:
+  title: "Social Order and Social Control"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/clanfear/ioc_social-order-and-social-control
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+
+
+

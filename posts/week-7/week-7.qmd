@@ -1,0 +1,12 @@
+---
+title: "Week 7: XX"
+description: "Description text"
+date: "2027-03-09"
+draft: false
+---
+
+[Lecture Slides]()
+
+Reading:
+
+* TBA

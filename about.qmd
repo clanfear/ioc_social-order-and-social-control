@@ -1,0 +1,33 @@
+---
+title: "Course Information"
+image: ioc_entrance_far.jpg
+about:
+  template: marquee
+title-block-banner: true
+---
+
+:::: {.grid style="text-align: left"}
+
+::: {.g-col-5}
+Tuesday 14:00-16:00
+<br>IoC Basement
+:::
+
+::: {.g-col-2}
+&nbsp;
+:::
+
+::: {.g-col-5}
+<p>Charles C. Lanfear<br> [cl948\@cam.ac.uk](cl948@cam.ac.uk "Email")<br>Office: 3.9</p><p>Zora L. Hauser<br> [zlh26\@cam.ac.uk](zlh26@cam.ac.uk "Email")<br>Office: 3.11</p>
+:::
+
+::::
+
+&nbsp;
+
+A blurb about the course goes here
+
+
+# Materials
+
+Under each lecture view you will find the required readings for each unit. You can return to the lecture view using the link in the upper left.
