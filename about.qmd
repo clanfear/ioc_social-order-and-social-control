@@ -9,8 +9,8 @@ title-block-banner: true
 :::: {.grid style="text-align: left"}
 
 ::: {.g-col-5}
-Tuesday 14:00-16:00
-<br>IoC Basement
+Wednesday 14:00-16:00
+<br>IoC B3/B4
 :::
 
 ::: {.g-col-2}
@@ -25,8 +25,7 @@ Tuesday 14:00-16:00
 
 &nbsp;
 
-A blurb about the course goes here
-
+This course examines how societies produce and maintain order, with a particular focus on the regulation and use of violence. We adopt a broad interdisciplinary and analytical perspective, drawing selectively on a vast literature on social order and social control. Topics range from the institutionalisation of revenge and reciprocity in pre-modern states to forms of order that operate outside the law, the challenges of urbanisation, and contemporary developments in technologically-mediated surveillance and social control. Throughout, we ask how social order is produced, who exercises control, and how the legitimate and illegitimate uses of violence are defined and contested. The discussion will explore dilemmas at the intersection of human nature, social norms and sanctions, governance, and violence.
 
 # Materials
 

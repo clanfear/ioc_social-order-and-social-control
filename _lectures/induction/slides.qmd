@@ -1,0 +1,167 @@
+---
+author:
+  - name: Charles C. Lanfear
+  - name: Zora L. Hauser
+title: Social order and social control
+subtitle: Lent term
+format:
+  revealjs:
+    theme: assets/cclslides.scss
+    incremental: false
+    self-contained: true
+    width: 1200
+    height: 800
+    auto-stretch: true
+    title-slide-attributes:
+      data-background-image: img/paisley.png
+      data-background-position: bottom
+      data-background-size: contain
+filters: 
+  - assets/invert-h1.lua
+editor: source
+mouse-wheel: true
+history: false
+---
+
+```{r}
+#| label: "setup"
+#| include: false
+library(tidyverse)
+library(showtext)
+slide_font <- "EB Garamond"
+font_add_google(name = slide_font)
+showtext_auto()
+```
+
+
+# All social problems turn out to be problems of social control.
+
+\- Park & Burgess (1921)
+
+## Who are these people
+
+&nbsp;
+
+:::: {.columns}
+
+::: {.column}
+**Chuck**
+
+* *Stupid crime*
+* Social control
+* Quantitative
+
+:::
+
+::: {.column}
+**Zora**
+
+* *Smart crime*
+* Social order
+* Qualitative
+
+:::
+
+::::
+
+## The idea
+
+&nbsp;
+
+> We adopt a broad [**interdisciplinary**]{.fragment .highlight-current-red fragment-index="1"} and [**analytical**]{.fragment .highlight-current-red fragment-index="2"} perspective, drawing [**selectively**]{.fragment .highlight-current-red fragment-index="3"} on a vast literature on social order and social control. ... we ask how social order is produced, who exercises control, and how the legitimate and illegitimate uses of [**violence**]{.fragment .highlight-current-red fragment-index="4"} are defined and contested.
+
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.fragment fragment-index="1"}
+* Sociology, history, economics, anthropology, politics
+
+:::
+
+::: {.fragment fragment-index="3"}
+* Curated rather than comprehensive
+
+:::
+
+
+::::
+
+:::: {.column}
+
+::: {.fragment fragment-index="2"}
+* Explanatory: Theory, mechanisms, abstraction
+
+:::
+
+
+::: {.fragment fragment-index="4"}
+* Violence as an unifying focus
+
+:::
+
+::::
+
+:::::
+
+## Tentative outline
+
+&nbsp;
+
+1. Overview and major ideas
+1. Pre-modern control (1)
+1. Pre-modern control (2)
+1. Extra legality
+1. Urbanisation (1)
+1. Urbanisation (2)
+1. Technology (1)
+1. Technology (2)
+
+
+## Format
+
+&nbsp;
+
+2-4 PM Wednesday^[Usually; there are two Tuesday meetings] with a short break
+
+&nbsp;
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+**Reading**
+
+* ~2-3 required readings
+* *Eclectic*
+
+:::
+
+::: {.column width="60%"}
+
+**Structure**
+
+* Moodle discussion questions ahead of seminar
+* Lecture synopsis and key questions
+* Discussion
+
+:::
+
+::::
+
+## Moodle
+
+&nbsp;
+
+*Forum contributions feed and focus in-class discussion*
+
+* One forum per seminar
+* All students contribute (max 300 words)
+* Contributions:
+   * Questions, suggestions, comments on reading
+   * Responses to posted questions
+   * Responses to others' posts
+
+# Questions {.end-slide}
+
