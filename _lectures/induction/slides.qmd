@@ -97,7 +97,7 @@ showtext_auto()
 
 
 ::: {.fragment fragment-index="4"}
-* Violence as an unifying focus
+* Violence as a unifying focus
 
 :::
 
