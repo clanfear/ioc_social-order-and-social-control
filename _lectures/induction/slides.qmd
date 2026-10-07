@@ -47,7 +47,7 @@ showtext_auto()
 ::: {.column}
 **Chuck**
 
-* *Stupid crime*
+* *Disorganised crime*
 * Social control
 * Quantitative
 
@@ -56,7 +56,7 @@ showtext_auto()
 ::: {.column}
 **Zora**
 
-* *Smart crime*
+* *Organised crime*
 * Social order
 * Qualitative
 
